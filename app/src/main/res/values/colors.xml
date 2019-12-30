@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#743043</color>
+    <color name="gri">#AFE0E0</color>
+    <color name="gri2">#ADEBB1</color>
+    <color name="sarı">#D8910D</color>
+    <color name="siyah">#000000</color>
+</resources>

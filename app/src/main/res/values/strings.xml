@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gazi Braille Çevirici</string>
+    <string name="title_home">Kavramlar</string>
+    <string name="title_dashboard">Çevirici</string>
+    <string name="title_notifications">Font Kullanımları</string>
+    <string name="textview3">"?"</string>
+    <string name="editText1">"Kelime"</string>
+    <string name="buttoncevir">"Çevir"</string>
+</resources>
